@@ -1,13 +1,8 @@
-# README
+## 缘起
+起初并没有打算报名学习，因为对于时间的投入没底。后来改变主意了：
+- 思维：大妈、安替讲座时的文案，简洁明晰，令人仰慕，更赞的是背后的思维
+- 语言：不是说编程是一门语言么？语言，我有兴趣。
 
-## github及gitbook学习向导  
- 
-[Guide: GitHub + gitbook](https://github.com/OpenMindClub/pythoncamp0/wiki/%5BGithub-Gitbook%5D)
-
-## readme是什么
-
-readme告诉别人如何使用你的软件，是项目的门面，一般包括如何安装，如何使用等等
-
-## fork这个项目
-
-现在，把这个项目fork到你的库里，点击右上角的fork
+## 主要内容
+- 进程记录：编程零基础，过程全记录
+- 学习整理：学有所得，记之
